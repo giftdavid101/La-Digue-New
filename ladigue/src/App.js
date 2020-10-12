@@ -9,12 +9,10 @@ function App() {
     <div className="App">
      <Router>
      <Navbar />
-     <Switch>
+      <Switch>
       <Route></Route>
      </Switch>
      </Router>
-     
-     
     </div>
   );
 }
